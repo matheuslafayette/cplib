@@ -2,6 +2,8 @@
 # Credit for this file goes to the Stanford University ACM team
 
 import subprocess
+import os
+
 code_dir = "impl"
 title = "mlv - ICPC Library"
 
@@ -67,3 +69,14 @@ if __name__ == "__main__":
     latexmk_options = ["latexmk", "-pdf", "notebook.tex"]
     
     subprocess.call(latexmk_options)
+
+    cleanup_files = [
+        "notebook.aux", "notebook.fdb_latexmk", "notebook.fls", "notebook.log", 
+        "contents.tex", "notebook.out", "notebook.toc"
+    ]
+    for file in cleanup_files:
+        if os.path.exists(file):
+            os.remove(file)
+
+    if os.path.exists("notebook.pdf"):
+        os.rename("notebook.pdf", "cplib-mlv.pdf")
