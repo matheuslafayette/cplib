@@ -1,0 +1,59 @@
+# Any line followed by a '#' character is ignored
+# Section headings must be in square brackets
+# Subsections within a section should follow the format:
+#   [filename within code directory][tab character \t][subsection title]
+# tab character:	
+
+[Data Structures]
+data-structures/fenwick-tree.cpp,Fenwick Tree
+data-structures/prefix_sum_2d.cpp,Prefix Sum 2D
+data-structures/segtree.cpp,Segment Tree
+
+[DP]
+dp/dp_bitmask.cpp,Bitmask DP
+dp/dp_bottomup.cpp,Bottom-Up DP
+dp/dp_digit.cpp,Digit DP
+dp/dp_topdown.cpp,Top-Down DP
+
+[Geometry]
+geometry/convexhull.cpp,Convex Hull
+geometry/point.cpp,Point Operations
+
+[Graphs]
+graphs/bellman_ford.cpp,Bellman-Ford Algorithm
+graphs/bfs.cpp,Breadth-First Search
+graphs/bipartite.cpp,Bipartite Graph Check
+graphs/dfs.cpp,Depth-First Search
+graphs/dijkstra.cpp,Dijkstra’s Algorithm
+graphs/dsu.cpp,Disjoint Set Union (DSU)
+graphs/find_cycle.cpp,Cycle Detection
+graphs/flood_fill.cpp,Flood Fill
+graphs/floyd_warshall.cpp,Floyd-Warshall Algorithm
+graphs/kruskal.cpp,Kruskal’s Algorithm
+graphs/prim.cpp,Prim’s Algorithm
+graphs/toposort.cpp,Topological Sort
+
+[Math]
+math/divisor_count.cpp,Divisor Count
+math/extended_euclidean.cpp,Extended Euclidean Algorithm
+math/factorization.cpp,Prime Factorization
+math/fast_exp.cpp,Fast Exponentiation
+math/fermat_little_theorem.cpp,Fermat’s Little Theorem
+math/linear_recurrence.cpp,Linear Recurrence
+math/matrix_exp.cpp,Matrix Exponentiation
+math/modular_arithmetic.cpp,Modular Arithmetic
+math/modular_combinatory.cpp,Modular Combinatorics
+math/modular_inverse.cpp,Modular Inverse
+math/sieve.cpp,Sieve
+
+[Miscellaneous]
+miscellaneous/backtracking.cpp,Backtracking
+miscellaneous/binary_search.cpp,Binary Search
+miscellaneous/meet_in_the_middle.cpp,Meet in the Middle
+miscellaneous/monotonic_stack.cpp,Monotonic Stack
+miscellaneous/subset_sum.cpp,Subset Sum
+
+[Strings]
+strings/hash.cpp,Hashing
+strings/kmp.cpp,KMP Algorithm
+strings/trie.cpp,Trie
