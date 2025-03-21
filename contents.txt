@@ -33,14 +33,9 @@ graphs/restore_path.cpp, Restore Path
 graphs/topo_sort.cpp,Topological Sort
 
 [Math]
-math/divisor_count.cpp,Divisor Count
-math/extended_euclidean.cpp,Extended Euclidean Algorithm
-math/factorization.cpp,Prime Factorization
 math/fast_exp.cpp,Fast Exponentiation
-math/fermat_little_theorem.cpp,Fermat’s Little Theorem
 math/linear_recurrence.cpp,Linear Recurrence
 math/matrix_exp.cpp,Matrix Exponentiation
-math/modular_arithmetic.cpp,Modular Arithmetic
 math/modular_combinatory.cpp,Modular Combinatorics
 math/modular_inverse.cpp,Modular Inverse
 math/sieve.cpp,Sieve of Eratosthenes
