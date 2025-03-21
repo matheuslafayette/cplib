@@ -27,11 +27,10 @@ graphs/dfs.cpp,Depth-First Search
 graphs/dijkstra.cpp,Dijkstra’s Algorithm
 graphs/dsu.cpp,Disjoint Set Union (DSU)
 graphs/find_cycle.cpp,Cycle Detection
-graphs/flood_fill.cpp,Flood Fill
 graphs/floyd_warshall.cpp,Floyd-Warshall Algorithm
 graphs/kruskal.cpp,Kruskal’s Algorithm
-graphs/prim.cpp,Prim’s Algorithm
-graphs/toposort.cpp,Topological Sort
+graphs/restore_path.cpp, Restore Path
+graphs/topo_sort.cpp,Topological Sort
 
 [Math]
 math/divisor_count.cpp,Divisor Count
