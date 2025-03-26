@@ -45,7 +45,6 @@ miscellaneous/backtracking.cpp,Backtracking
 miscellaneous/binary_search.cpp,Binary Search
 miscellaneous/meet_in_the_middle.cpp,Meet in the Middle
 miscellaneous/monotonic_stack.cpp,Monotonic Stack
-miscellaneous/subset_sum.cpp,Subset Sum
 
 [Strings]
 strings/hash.cpp,Hashing
