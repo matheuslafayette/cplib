@@ -8,6 +8,7 @@
 data-structures/fenwick-tree.cpp,Fenwick Tree
 data-structures/prefix_sum_2d.cpp,Prefix Sum 2D
 data-structures/segtree.cpp,Segment Tree
+data-structures/rmq.cpp, RMQ - Range Minimum Queries
 
 [DP]
 dp/dp_bitmask.cpp,Bitmask DP
