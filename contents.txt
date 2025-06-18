@@ -33,6 +33,7 @@ graphs/kruskal.cpp,Kruskal’s Algorithm
 graphs/restore_path.cpp,Restore Path
 graphs/topo_sort.cpp,Topological Sort
 graphs/lca_binary_lifting.cpp,LCA - Binary Lifting
+graphs/find_bridges.cpp,Find Bridges
 
 [Math]
 math/fast_exp.cpp,Fast Exponentiation
